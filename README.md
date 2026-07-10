@@ -78,34 +78,6 @@ Where:
 
 ---
 
-## ▶️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/cliff-walking-sarsa.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd cliff-walking-sarsa
-```
-
-Install the required packages:
-
-```bash
-pip install gymnasium "gymnasium[toy-text]" numpy
-```
-
-Run the notebook:
-
-```bash
-jupyter notebook SARSA.ipynb
-```
-
----
-
 ## 📊 Results
 
 After training:
